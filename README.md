@@ -9,8 +9,7 @@
 
 <div align="center">
   <a href=https://github.com/RodrigoPenaforte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo&show_icons=true&theme=dack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>                                                                                                                                         
                                                                                                                                                                        <div style="display: inline_block"><br>
   <img align="center" alt="Rodri-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
