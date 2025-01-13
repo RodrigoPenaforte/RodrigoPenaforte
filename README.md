@@ -1,4 +1,4 @@
-### Olá, me chamo Rodrigo, Tenho 27 anos. 👋
+### Olá, me chamo Rodrigo, Tenho 28 anos. 👋
 
 
 - 👨‍💻 No momento estou me especializando como full stack
