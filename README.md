@@ -3,7 +3,7 @@
 
 - 👨‍💻 No momento estou me especializando como full stack
 - 🏆 Aperfeiçoando meus conhecimentos com Java, JS, C# e ASP.NET Core.
-- 📚 Cursando Engenharia de Software pela faculdade IESB
+- 📚 Bacharelado em Engenharia de Software pela faculdade IESB
 - 🔗Linkedln: https://www.linkedin.com/in/rodrigo-penaforte-b18b1313a/
 - ✉ Contate-me no Email: Rodrigo.penaforte550@gmail.com
 
