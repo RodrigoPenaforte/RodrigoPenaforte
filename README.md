@@ -1,11 +1,11 @@
-### Olá, me chamo Rodrigo, tenho 29 anos 👋
+### Hi, I'm Rodrigo, 29 years old 👋
 
-- 👨‍💻 Atualmente me especializando como desenvolvedor Full Stack
-- 🏆 Aperfeiçoando conhecimentos em Vue.js, Angular, JavaScript, TypeScript, C# e ASP.NET Core
-- 🎓 Bacharel em Engenharia de Software – IESB
+- 👨‍💻 Back-End .NET Developer with full stack experience
+- 🏆 Continuously improving my skills in ASP.NET Core, C#, TypeScript, JavaScript, Vue.js and React
+- 🏗️ Focused on building scalable APIs, clean architecture and maintainable systems
+- 🎓 Bachelor’s Degree in Software Engineering – IESB University Center
 - 🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-penaforte-b18b1313a/
 - ✉ Email: Rodrigo.penaforte550@gmail.com
-
 ------------------------------------------------------------------------------------
 
 <div align="center">
